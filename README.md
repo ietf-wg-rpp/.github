@@ -1,2 +1,0 @@
-RESTful Provisioning Protocol
-# Welcome  🙌
