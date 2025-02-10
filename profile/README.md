@@ -1,5 +1,6 @@
 ## Welcome 👋
 
+[!NOTE]
 **Status:**
 The RPP WG Charter is currently in 'External Review'.
 
