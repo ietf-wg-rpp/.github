@@ -1,8 +1,7 @@
 ## Welcome 👋
 
-[!NOTE]
-**Status:**
-The RPP WG Charter is currently in 'External Review'.
+> [!NOTE]
+> **Status:** The RPP WG Charter is currently in 'External Review'.
 
 Keep an eye on https://datatracker.ietf.org/group/chartering/ for updates.
 
