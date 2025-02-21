@@ -1,12 +1,12 @@
 ## Welcome 👋
 
+<!--
 > [!NOTE]
-> **Status:** The RPP WG Charter is currently in 'External Review'.
-
-Keep an eye on https://datatracker.ietf.org/group/chartering/ for updates.
+> **Announcement:** A note here
+-->
 
 <!--
-🧙 Not to self: you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 Note to self: you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
 ---
