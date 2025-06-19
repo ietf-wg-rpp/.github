@@ -1,7 +1,7 @@
 ## Welcome 👋
 
-_In protocol design, perfection has been reached not when there is nothing left to add, but when there is nothing left to take away._  
--- From [RFC1925](https://datatracker.ietf.org/doc/html/rfc1925) "The Twelve Networking Truths"
+_"In protocol design, perfection has been reached not when there is nothing left to add, but when there is nothing left to take away."_  
+-- From [RFC1925](https://datatracker.ietf.org/doc/html/rfc1925), 'The Twelve Networking Truths'
 
 > [!NOTE]
 > **Announcement:** We have a [page on Wikipedia](https://en.wikipedia.org/wiki/RESTful_Provisioning_Protocol) now! Feel free to help improve it.
